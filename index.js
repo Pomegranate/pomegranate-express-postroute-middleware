@@ -23,8 +23,8 @@ module.exports = {
   },
   metadata: {
     name: 'PostRouter',
-    layer: 'post_router',
-    type: 'none'
+    type: 'none',
+    depends: ['Router']
   },
   plugin: {
     load: function(inject, loaded) {
