@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-express-postroute-middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Provides post route middleware mounting for Pomegranate-Express",
   "main": "index.js",
   "scripts": {
